@@ -434,6 +434,10 @@ section {
 	.benefits__padding {
 		padding-bottom: 0;
 	}
+	
+	section.benefits {
+    		padding-bottom: 0px;
+	}
 
 	.work {
 		padding-top: 70px;
